@@ -21,9 +21,7 @@ The agent runs a 3-stage pipeline:
 
 ## Demo
 
-🎥 **Demo Video:** `[add your Loom link here]`
-
-🌐 **Live Site:** `[add your deployed URL here]`
+🌐 **Live Site:** `(https://khoj-catalyst-deccan-ai.vercel.app/)`
 
 ---
 
